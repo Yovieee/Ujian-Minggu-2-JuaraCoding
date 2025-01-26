@@ -3,8 +3,13 @@
 <suite name="Suite TestNG x Selenium">
     <test name="Firt My Test">
         <classes>
-            <class name="com.juaracoding.belajarTestNG.Calculator.CalculatorTest" />
-            <class name="com.juaracoding.belajarTestNG.ATM.ATMTest" />
+            <!-- <class name="com.juaracoding.belajarTestNG.Calculator.CalculatorTest" />
+            <class name="com.juaracoding.belajarTestNG.ATM.ATMTest" /> -->
+            <!-- <class name = "com.juaracoding.belajarTestNG.Login.LoginTest" /> -->
+            <!-- <class name = "com.juaracoding.belajarTestNG.Login.AdvancedAction" /> -->
+            <class name="com.juaracoding.belajarTestNG.HookTest"></class>
+            <class name="com.juaracoding.belajarTestNG.authentication.SignInTestAdmin"></class>
+            <class name="com.juaracoding.belajarTestNG.CategoryTest"></class>
         </classes>
     </test>
 </suite>
